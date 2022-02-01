@@ -1,2 +1,5 @@
 //// fake config file
 //// 2022-FEB-01 Re-engineer Config
+
+//// Global
+CONFIG_ROOT = "/root/helloWorld/"
