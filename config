@@ -1,5 +1,7 @@
 //// fake config file
 //// 2022-FEB-01 Re-engineer Config
+//// 2022-FEB-01 add more variables
 
 //// Global
 CONFIG_ROOT = "/root/helloWorld/"
+DEFAULT_EMAIL = "masterPo@fatpanda.com"
