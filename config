@@ -4,3 +4,4 @@
 
 //// Global
 CONFIG_ROOT = "/root/helloWorld/"
+DEFAULT_EMAIL = "masterPo@fatpanda.com"
