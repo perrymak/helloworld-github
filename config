@@ -5,3 +5,4 @@
 //// Global
 CONFIG_ROOT = "/root/helloWorld/"
 DEFAULT_EMAIL = "masterPo@fatpanda.com"
+DEFAULT_MAX_HEIGHT = "768px"
